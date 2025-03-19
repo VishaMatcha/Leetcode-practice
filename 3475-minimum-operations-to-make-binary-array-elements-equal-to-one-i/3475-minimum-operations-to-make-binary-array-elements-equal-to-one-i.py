@@ -5,7 +5,6 @@ class Solution:
         
         for i in range(n - 2):
             if nums[i] == 0:
-                nums[i] ^= 1
                 nums[i + 1] ^= 1
                 nums[i + 2] ^= 1
                 count += 1
