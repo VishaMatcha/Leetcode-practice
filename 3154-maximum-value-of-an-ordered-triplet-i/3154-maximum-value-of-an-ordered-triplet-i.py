@@ -7,5 +7,5 @@ class Solution:
             if nums[j]>i:
                 i = nums[j]
             for k in range (j+1, n):
-                res = max(res, ((i-nums[j]) * nums[k]))
+                res = max(res, ((i-nums[j])*nums[k]))
         return res
