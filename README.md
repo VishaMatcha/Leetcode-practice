@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1500-count-largest-group) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0868-push-dominoes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2262-solving-questions-with-brainpower) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -388,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2048-build-array-from-permutation) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
