@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def numOfUnplacedFruits(self, fruits: List[int], baskets: List[int]) -> int:
         n = len(fruits)
