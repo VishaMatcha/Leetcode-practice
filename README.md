@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0498-diagonal-traverse) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0806-domino-and-tromino-tiling) |
