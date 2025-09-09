@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0868-push-dominoes) |
