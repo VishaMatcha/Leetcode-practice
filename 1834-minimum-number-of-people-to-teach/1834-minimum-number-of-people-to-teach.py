@@ -1,24 +1,24 @@
-from typing import List
 class Solution:
     def minimumTeachings(self, n: int, languages: List[List[int]], friendships: List[List[int]]) -> int:
-        need = set()
-        for u, v in friendships:
-            u -= 1
-            v -= 1
-            ok = False
-            for x in languages[u]:
-                if x in languages[v]:
-                    ok = True
-                    break
-            if not ok:
-                need.add(u)
-                need.add(v)
-
-        ans = len(languages) + 1
-        for i in range(1, n + 1):
-            cans = 0
-            for v in need:
-                if i not in languages[v]:
-                    cans += 1
-            ans = min(ans, cans)
-        return ans
+        m = len(languages)
+        masks = [0]*(m+1)
+        for i in range(m):
+            mask = 0
+            for lang in languages[i]:
+                mask |= 1 << (lang-1)
+            masks[i+1] = mask
+        
+        candidates = set()
+        for u,v in friendships:
+            if masks[u] & masks[v] == 0:
+                candidates.add(u); candidates.add(v)
+        if not candidates:
+            return 0
+        
+        count = [0]*(n+1)
+        for u in candidates:
+            for lang in range(1,n+1):
+                if masks[u] & (1 << (lang-1)):
+                    count[lang]+=1
+        maxOverlap = max(count)
+        return len(candidates) - maxOverlap
