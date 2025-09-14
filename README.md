@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0945-snakes-and-ladders) |
+| [1006-vowel-spellchecker](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1006-vowel-spellchecker) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1293-three-consecutive-odds) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
