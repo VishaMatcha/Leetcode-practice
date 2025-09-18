@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0498-diagonal-traverse) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
