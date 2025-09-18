@@ -8,10 +8,10 @@ class Solution:
                 n //= 10
             return total_sum
 
-        seen = set()
-        while n != 1 and n not in seen:
-            seen.add(n)
-            n = square(n)
+        slow = n
+        fast = square(n)
+        while (fast!=1 and slow!=fast):
+            slow = square(slow)
+            fast = square(square(fast))
 
-        return n == 1
-            
+        return fast == 1
