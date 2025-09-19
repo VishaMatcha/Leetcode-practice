@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
