@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0498-diagonal-traverse) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3678-design-task-manager) |
