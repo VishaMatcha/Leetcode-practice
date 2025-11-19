@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0797-rabbits-in-forest](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
