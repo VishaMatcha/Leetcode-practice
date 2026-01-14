@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3430-count-days-without-meetings) |
+| [3454-separate-squares-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3454-separate-squares-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3454-separate-squares-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3643-zero-array-transformation-ii) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -974,4 +977,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3462-vowels-game-in-a-string) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
