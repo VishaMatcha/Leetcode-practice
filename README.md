@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1840-maximum-building-height](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1840-maximum-building-height](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
