@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1006-vowel-spellchecker) |
+| [1189-maximum-number-of-balloons](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1189-maximum-number-of-balloons](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
