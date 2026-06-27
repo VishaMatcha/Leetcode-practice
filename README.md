@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2998-count-symmetric-integers) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
