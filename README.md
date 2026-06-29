@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
