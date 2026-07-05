@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0945-snakes-and-ladders) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1975-maximum-matrix-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
