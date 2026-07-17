@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3454-separate-squares-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3454-separate-squares-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2915-count-of-interesting-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -732,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3462-vowels-game-in-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3462-vowels-game-in-a-string) |
@@ -898,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -935,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
