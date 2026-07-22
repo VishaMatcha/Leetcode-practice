@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3618-find-the-original-typed-string-ii) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3454-separate-squares-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3620-network-recovery-pathways) |
@@ -1008,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
