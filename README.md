@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3430-count-days-without-meetings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3647-zero-array-transformation-iii) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
