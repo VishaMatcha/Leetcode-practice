@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0611-valid-triangle-number) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0826-soup-servings) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
@@ -1023,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Line Sweep
 |  |
