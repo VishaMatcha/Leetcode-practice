@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0945-snakes-and-ladders) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1146,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Line Sweep
 |  |
