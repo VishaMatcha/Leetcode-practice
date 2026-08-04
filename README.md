@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3678-design-task-manager) |
+| [3731-find-missing-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
