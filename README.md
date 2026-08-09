@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1406-stone-game-iii) |
@@ -1169,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Line Sweep
@@ -1200,9 +1205,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
