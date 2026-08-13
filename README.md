@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1093,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3678-design-task-manager) |
