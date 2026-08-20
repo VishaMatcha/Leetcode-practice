@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2479-meeting-rooms-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
