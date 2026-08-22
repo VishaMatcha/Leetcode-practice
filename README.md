@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3637-count-number-of-balanced-permutations) |
