@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1927-sum-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2029-stone-game-ix) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1213,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Line Sweep
