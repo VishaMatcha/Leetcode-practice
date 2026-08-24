@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1917-maximum-average-pass-ratio](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2249-count-the-hidden-sequences) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1216,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3462-vowels-game-in-a-string) |
@@ -1250,12 +1255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
