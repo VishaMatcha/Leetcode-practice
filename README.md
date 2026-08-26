@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3678-design-task-manager) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
