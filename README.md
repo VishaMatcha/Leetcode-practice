@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3678-design-task-manager) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -994,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3647-zero-array-transformation-iii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1088,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
