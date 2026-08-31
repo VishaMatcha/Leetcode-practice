@@ -1205,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Function
 |  |
