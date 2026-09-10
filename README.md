@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1066,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
