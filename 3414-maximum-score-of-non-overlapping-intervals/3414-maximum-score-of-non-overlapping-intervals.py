@@ -1,6 +1,3 @@
-from bisect import bisect_left
-from typing import List
-
 class Solution:
     def maximumWeight(self, intervals: List[List[int]]) -> List[int]:
         n = len(intervals)
