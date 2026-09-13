@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0940-fruit-into-baskets) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0835-image-overlap) |
 | [0945-snakes-and-ladders](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0945-snakes-and-ladders) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
