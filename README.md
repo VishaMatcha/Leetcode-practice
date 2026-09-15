@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2618-maximize-the-minimum-powered-city) |
