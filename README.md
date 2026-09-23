@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-find-the-highest-altitude](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
