@@ -5,6 +5,7 @@ class Solution:
         def backtrack(current: List[str], open_count: int, close_count: int):
             if len(current) == 2 * n:
                 res.append("".join(current))
+                return
             
             if open_count < n:
                 current.append('(')
