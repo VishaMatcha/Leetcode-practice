@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0301-remove-invalid-parentheses](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0945-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
