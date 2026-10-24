@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2429-design-a-food-rating-system) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2409-count-days-spent-together](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
