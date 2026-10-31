@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3863-power-grid-maintenance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -1453,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimax
 |  |
 | ------- |
