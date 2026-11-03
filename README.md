@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0498-diagonal-traverse) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0679-24-game) |
