@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1293-three-consecutive-odds) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2029-stone-game-ix) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1018,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0835-image-overlap) |
 | [0945-snakes-and-ladders](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0945-snakes-and-ladders) |
 | [1254-number-of-closed-islands](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1462,6 +1467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
