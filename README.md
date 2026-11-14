@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-count-days-without-meetings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3430-count-days-without-meetings) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/3548-equal-sum-grid-partition-ii) |
