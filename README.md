@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2529-range-product-queries-of-powers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2689-rearranging-fruits) |
@@ -1187,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2681-put-marbles-in-bags](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2689-rearranging-fruits) |
