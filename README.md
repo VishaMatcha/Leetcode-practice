@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1446,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VishaMatcha/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/VishaMatcha/Leetcode-practice/tree/master/2169-simple-bank-system) |
@@ -1568,4 +1572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/VishaMatcha/Leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
